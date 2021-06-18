@@ -12,4 +12,4 @@ redirect_from:
 Post
 ======
 
-*[Pattern Recognition and Machine Learning](https://chenmientan.github.io/files/ml)
+*[Pattern Recognition and Machine Learning](https://chenmientan.github.io/files/ml.pdf)
