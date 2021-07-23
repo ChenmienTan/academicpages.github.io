@@ -9,7 +9,4 @@ redirect_from:
 ---
 
 
-Post
-======
-
-*[Pattern Recognition and Machine Learning](https://chenmientan.github.io/files/ml.pdf)
+Hi, I am currently an applied mathematics undergraduate at the University of Nottingham Ningbo China. My interest covers bandit algorithms and natural language processing.
